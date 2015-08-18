@@ -1,5 +1,5 @@
 {
-    "name": "snilius/twig-sort-by-field",
+    "name": "dvapelnik/twig-sort-by-field",
     "description": "A Twig Extension filter to sort an array of entries (objects or arrays) by the specified field",
     "require-dev": {
         "phpunit/phpunit": "~4.5",
